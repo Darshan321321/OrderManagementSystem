@@ -1,0 +1,4 @@
+item_id,price,name,quantity,status,description
+1,25,Parle-G,40,True,normal
+2,40,Parle-G gold,20,True,HighSugar Biscuit
+3,20,smartwatch,80,True,smartwatch

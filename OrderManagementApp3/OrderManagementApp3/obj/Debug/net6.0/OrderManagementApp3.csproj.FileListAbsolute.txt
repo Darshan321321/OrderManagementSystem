@@ -1,0 +1,15 @@
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\bin\Debug\net6.0\OrderManagementApp3.exe
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\bin\Debug\net6.0\OrderManagementApp3.deps.json
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\bin\Debug\net6.0\OrderManagementApp3.runtimeconfig.json
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\bin\Debug\net6.0\OrderManagementApp3.dll
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\bin\Debug\net6.0\OrderManagementApp3.pdb
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\OrderManagementApp3.csproj.AssemblyReference.cache
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\OrderManagementApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\OrderManagementApp3.AssemblyInfoInputs.cache
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\OrderManagementApp3.AssemblyInfo.cs
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\OrderManagementApp3.csproj.CoreCompileInputs.cache
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\OrderManagementApp3.dll
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\refint\OrderManagementApp3.dll
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\OrderManagementApp3.pdb
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\OrderManagementApp3.genruntimeconfig.cache
+C:\Users\darshane\source\repos\OrderManagementApp3\OrderManagementApp3\obj\Debug\net6.0\ref\OrderManagementApp3.dll
